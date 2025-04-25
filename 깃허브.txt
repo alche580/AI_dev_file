@@ -1,0 +1,22 @@
+git config --global user.name "권혜정"
+git config --global user.email "alche580@gmail.com"
+
+#확인
+git config --global --list
+
+#폴더
+cd d:
+cd git_test
+git init : 초기화
+echo "#내 첫 git프로젝트" > README.md
+git add.  : git에 전체 파일을 추가
+git commit -m "first commit"
+git branch branch_test : 브랜치 만들기
+git checkout branch_test : 브랜치 이동
+
+#명령어
+ls : 리스트
+ls -a : 숨긴파일 포함 리스트
+git status
+git log : 커밋 이력 확인
+git branch : 현재 브랜치 확인
