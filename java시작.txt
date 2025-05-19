@@ -1,0 +1,8 @@
+0. 워크스페이스 선택
+
+1. 자바 프로젝트 만들기
+File - New - Java Project
+
+2. Class 파일 만들기
+Packge Explorer에서 Java Project 우클릭 - New - Class
+: Name, public static void main(String[] args) 체크
